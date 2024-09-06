@@ -1,2 +1,2 @@
-# ECONOMIA (Tema)
-## *Politica economica* (Cuestionario)
+# **ECONOMIA**
+## *Politica economica*
